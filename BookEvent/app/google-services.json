@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "597834115155",
+    "project_id": "magic-restaurant-136eb",
+    "storage_bucket": "magic-restaurant-136eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597834115155:android:08ee89717fb5c0c0673ea6",
+        "android_client_info": {
+          "package_name": "com.example.bookevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEELepM5FMPv3VHEKAEgjsDQLdk9crUR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597834115155:android:fd8666cdaf8e5521673ea6",
+        "android_client_info": {
+          "package_name": "com.example.doodler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEELepM5FMPv3VHEKAEgjsDQLdk9crUR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597834115155:android:972b904a4f9f7d56673ea6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEELepM5FMPv3VHEKAEgjsDQLdk9crUR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597834115155:android:946d30be4ac67912673ea6",
+        "android_client_info": {
+          "package_name": "com.gdc.magicrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEELepM5FMPv3VHEKAEgjsDQLdk9crUR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597834115155-ad5c1s11c08vti23iqp3d5h51e363fr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
